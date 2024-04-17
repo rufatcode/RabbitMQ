@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C289440F-AEFB-4C31-8569-9FEE6772BAC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RabbitMQ_Publisher/Program.cs">
+    <Files>
+      <File FileName="RabbitMQ_Publisher/Program.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RabbitMQ_Publisher" expanded="True">
+            <Node name="RabbitMQ_Publisher" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RabbitMQ__Publisher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

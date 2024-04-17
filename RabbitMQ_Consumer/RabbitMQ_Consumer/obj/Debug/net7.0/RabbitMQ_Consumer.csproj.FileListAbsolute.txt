@@ -1,0 +1,17 @@
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/bin/Debug/net7.0/RabbitMQ_Consumer
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/bin/Debug/net7.0/RabbitMQ_Consumer.deps.json
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/bin/Debug/net7.0/RabbitMQ_Consumer.runtimeconfig.json
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/bin/Debug/net7.0/RabbitMQ_Consumer.dll
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/bin/Debug/net7.0/RabbitMQ_Consumer.pdb
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.csproj.AssemblyReference.cache
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.AssemblyInfoInputs.cache
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.AssemblyInfo.cs
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.csproj.CoreCompileInputs.cache
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.csproj.CopyComplete
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.dll
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/refint/RabbitMQ_Consumer.dll
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.pdb
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/RabbitMQ_Consumer.genruntimeconfig.cache
+/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/obj/Debug/net7.0/ref/RabbitMQ_Consumer.dll

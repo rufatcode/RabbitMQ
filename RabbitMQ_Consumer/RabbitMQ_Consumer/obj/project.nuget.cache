@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XmRqgPCvzkp+xuWE8QQ2ObSYa5RW4TBK60UXdBV4zzupAMlcvkrMGwitpAaQuLBZ0aCRRvkIZVh1E7TVBCcFg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/Advance-C#/RebitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer/RabbitMQ_Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/rufat/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
